@@ -1,0 +1,28 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "JsonObject&Sequence_1",
+        "ResponseStatus&Sequence_1",
+        "ResponseContent&Sequence_1",
+        "Body&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_answer",
+        "in_prompt"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

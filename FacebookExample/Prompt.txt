@@ -1,0 +1,19 @@
+A facebook user who is living in {0} said that they deleted facebook for the following reason: 
+
+Reason = {1}
+
+In which of these four categories is the Facebook user's reason most closely related?
+
+1. Mental health and well-being: Many users expressed concern for their mental health and well-being and how Facebook usage can negatively impact it. They want to reduce stress, minimize distractions, and promote a more mindful and present lifestyle.
+2. Issues with the platform: This includes disappointment with Facebook's priorities, feeling that the platform prioritizes profits over user experience, disagreement with political affiliations and ideologies, and concerns about negative content and impacts.
+3. Control over personal information: Some users want to safeguard their personal information and protect against online security threats, privacy breaches, and the spread of false information. They want to maintain control over their online presence and personal information.
+4.Other: These may include more specific or individualized reasons such as wanting to simplify one's life, reduce time spent on social media, prioritize meaningful connections, escape the cycle of comparison, promote positive societal change, and so on. These reasons may not fit neatly into the more general categories of mental health and well-being, issues with the platform, or control over personal information, but they still represent valid and important motivations for wanting to delete Facebook.
+
+Only respond with one of these four categories as referenced above:
+
+1. Mental health and well-being
+2. Issues with the platform
+3. Control over personal information
+4. Other
+
+The category is:
