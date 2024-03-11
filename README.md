@@ -4,7 +4,7 @@ The application utilizes ChatGPT with an appropriate prompt to analyze reasons f
 
 # How to use it?
 
-To use the application, you must first find your OpenAI API key on your account, and then paste it into the places marked YOUR_API_KEY on the screenshot below..
+To use the application, you must first find your [OpenAI](https://openai.com/) API key on your account, and then paste it into the places marked **YOUR_API_KEY** on the screenshot below..
 
 ![](assets/Settings.jpg)
 
